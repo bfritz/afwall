@@ -230,4 +230,3 @@ Translating
 The `res/values-*` dirs are kept up to date automatically via the Crowdin Translate Extension. See [our translation page](http://crowdin.net/project/afwall) if you would like to contribute.
 
 This application is available in many languages, but if yours is not included, or if it needs updating or improving, please create an account and use the translation system (powered by the Crowdin Translate Extension) and make your changes.
-
